@@ -1,2 +1,2 @@
 # git_test
-"Hello Odin"
+"Hello,You Know I Love Github Right,Weird?"
