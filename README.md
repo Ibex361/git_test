@@ -1,2 +1,2 @@
 # git_test
- "I like Nano"
+"I have VS Code"
